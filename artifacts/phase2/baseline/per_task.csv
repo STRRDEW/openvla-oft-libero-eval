@@ -1,0 +1,11 @@
+name,num_open_loop_steps,task_id,task,episodes,successes,success_rate,mean_env_steps,mean_policy_steps,mean_model_calls,mean_inference_seconds,mean_wall_seconds,failures_with_video
+baseline_k8,8,0,pick up the black bowl between the plate and the ramekin and place it on the plate,10,10,1.0,87.6,77.6,10.1,1.3121,6.3582,0
+baseline_k8,8,1,pick up the black bowl next to the ramekin and place it on the plate,10,10,1.0,117.7,107.7,13.8,1.7352,7.7625,0
+baseline_k8,8,2,pick up the black bowl from table center and place it on the plate,10,10,1.0,106.5,96.5,12.4,1.568,7.7432,0
+baseline_k8,8,3,pick up the black bowl on the cookie box and place it on the plate,10,10,1.0,94.3,84.3,11.0,1.391,7.2369,0
+baseline_k8,8,4,pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,10,10,1.0,136.0,126.0,16.2,2.0469,9.295,0
+baseline_k8,8,5,pick up the black bowl on the ramekin and place it on the plate,10,10,1.0,101.6,91.6,11.9,1.5034,7.827,0
+baseline_k8,8,6,pick up the black bowl next to the cookie box and place it on the plate,10,10,1.0,118.0,108.0,14.1,1.7787,8.5876,0
+baseline_k8,8,7,pick up the black bowl on the stove and place it on the plate,10,10,1.0,125.6,115.6,14.9,1.8765,8.7291,0
+baseline_k8,8,8,pick up the black bowl next to the plate and place it on the plate,10,10,1.0,103.2,93.2,12.1,1.5128,7.0076,0
+baseline_k8,8,9,pick up the black bowl on the wooden cabinet and place it on the plate,10,9,0.9,139.5,129.5,16.7,2.079,8.7833,1

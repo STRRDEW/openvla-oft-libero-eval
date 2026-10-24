@@ -1,0 +1,25 @@
+# Private / local
+.ssh/
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+envs/
+
+# Upload/debug leftovers
+*.b64
+*.zip
+
+# Model/cache/data (never commit)
+hf_cache/
+models/
+datasets/
+pip_cache/
+tmp/
+
+# OS
+.DS_Store
+Thumbs.db

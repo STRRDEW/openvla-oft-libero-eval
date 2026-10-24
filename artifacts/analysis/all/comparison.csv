@@ -1,0 +1,4 @@
+name,num_open_loop_steps,episodes,successes,success_rate,total_model_calls,mean_model_calls_per_episode,mean_inference_latency_ms,total_inference_seconds,mean_inference_seconds_per_episode,mean_env_steps,mean_wall_seconds_per_episode,inference_share_of_wall,sim_share_of_wall,model_calls_per_success,inference_seconds_per_success
+baseline_k8,8,100,99,0.99,1332,13.32,126.2847,168.036,1.6804,113.0,7.933,0.2118,0.3036,13.455,1.697
+k1,1,100,94,0.94,11176,111.76,124.4324,1390.869,13.9087,121.76,20.2778,0.6859,0.1211,118.894,14.796
+k4,4,100,99,0.99,2651,26.51,125.9173,333.733,3.3373,114.64,9.5141,0.3508,0.2437,26.778,3.371
